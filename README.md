@@ -1,7 +1,5 @@
 # Telecom-Customers-Churn-Analysis
-📌 # PROJECT TITLE:
-Telecom Customer Churn Analysis
-🎯 OBJECTIVE:
+🎯 # **OBJECTIVE**:
 •	The goal of this project is to:
 •	Analyse customer churn in the telecom industry.
 •	Identify key factors influencing churn rates. This helps businesses improve customer retention by addressing pain points and optimizing service offerings.
