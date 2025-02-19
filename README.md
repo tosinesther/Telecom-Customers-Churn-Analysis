@@ -7,7 +7,7 @@
 
 •	Develop Retention Strategies.
 
- 📊 # DATA SOURCE
+ 📊 **DATA SOURCE**
 •	Kaggle
 🛠️ TOOLS USED:
 •	Power BI – For data visualization and dashboard creation
