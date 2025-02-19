@@ -56,19 +56,19 @@
 
 •	Since fiber optic internet has the highest churn rate, assess service quality and address complaints to enhance customer satisfaction.
 
-3. Enhance Customer Engagement and Loyalty
+2. Enhance Customer Engagement and Loyalty
    
 •	Targeted engagement for short-tenure customers: In my visualization i am able to deduced that many customers leave early. Implementing loyalty programs or discounts for long-term commitments can help retain them.
 
 •	Provide special offers for customers using electronic check payments, as they are the largest segment, but possibly less engaged with online features.
 
-5. Address Pricing and Billing Concerns
+3. Address Pricing and Billing Concerns
    
 •	High monthly charges might be contributing to churn. Offer flexible payment plans, discounts for longer commitments, or tiered pricing to better match customer budgets.
 
 •	Encourage more paperless billing adoption by providing incentives like small monthly discounts.
 
-7. Improve Customer Support and Experience
+4. Improve Customer Support and Experience
    
 •	The number of tech support tickets suggests some customers face unresolved issues. Investing in better self-service options, chatbots, and faster response times could improve satisfaction.
 
