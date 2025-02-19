@@ -8,28 +8,48 @@
 •	Develop Retention Strategies.
 
  📊 **DATA SOURCE**
+ 
 •	Kaggle
-🛠️ TOOLS USED:
+
+🛠️ **TOOLS USED**
+
 •	Power BI – For data visualization and dashboard creation
+
 •	Excel/CSV – For initial data storage, cleaning preprocessing and transformation
-🔄 STAGES & PROCEDURE:
+
+🔄** STAGES & PROCEDURE
+**
 •	Data Collection- Kaggle
+
 •	Data Cleaning – Handling missing values, duplicates, and inconsistencies
+
 •	Data Analysis – Identifying patterns in churn rates based on demographics, tenure, and service types.
+
 •	Visualization & Dashboarding – Presenting insights using Power BI dashboards
+
 •	Recommendations – Suggesting retention strategies based on findings
-🧹 DATA CLEANING:
+
+🧹** DATA CLEANING**
+
 •	Removing missing or inconsistent data
+
 •	Standardizing formats (e.g., tenure categories: Short, Long, Very Long. Churn: Yes, No)
+
 •	Ensuring customer data integrity and avoiding duplication
-📌 BUSINESS QUESTIONS ADDRESSED:
+
+📌 **BUSINESS QUESTIONS ADDRESSED**
+
 •	Total number of churned customers?
+
 •	 Which customer segments have the highest churn rates? (e.g., gender, tenure length)
+
 •	 What services are most associated with customer churn?
+
 •	 How does tenure length impact churn probability?
+
 •	 What actionable insights can help reduce churn?
 
-INSGHTS AND RECOMMENDATIONS:
+**INSGHTS AND RECOMMENDATIONS**
 1. Improve Service Offerings and Support
 •	Customers without tech support or online security are more likely to churn. Offering free trials or bundling these services with existing plans could increase adoption.
 •	Since fiber optic internet has the highest churn rate, assess service quality and address complaints to enhance customer satisfaction.
